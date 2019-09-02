@@ -1,8 +1,9 @@
 # r2d2-influx_db_client &emsp; [![Latest Version]][crates.io]
 
+[Latest Version]: https://meritbadge.herokuapp.com/r2d2-influx_db_client
 [crates.io]: https://crates.io/crates/r2d2-influx_db_client
 
-[influx_db_client][influx_db_client] support library for the [r2d2][r2d2] connection pool. 
+[influx_db_client][influx_db_client] support library for the [r2d2][r2d2] connection pool.
 
 
 ## Install
