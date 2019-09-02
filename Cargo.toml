@@ -1,0 +1,15 @@
+[package]
+authors = ["Marcus Geiger"]
+description = "InfluxDB support for the R2D2 connection pool."
+edition = "2018"
+keywords = ["database", "influxdb", "pool", "r2d2"]
+license = "MIT"
+name = "r2d2-influx_db_client"
+version = "0.1.0"
+
+[dependencies]
+influx_db_client = "0.3.6"
+r2d2 = "0.8"
+
+[dev-dependencies]
+env_logger = "0.6.2"
